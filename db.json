@@ -1,0 +1,23 @@
+{
+  "BrandList": [
+    {
+        "id": 124,
+        "name": "SODIMAC",
+        "ImageUrl": "www.sodimac-image.com"
+    },
+    {
+        "id": 234,
+        "name": "MAESTRO",
+        "ImageUrl": "www.maestro-image.com"
+    },
+    {
+        "id": 4567,
+        "name": "SAGA FALaBELLA",
+        "ImageUrl": "www.falabella-image.com"
+    }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 }
+  ],
+  "profile": { "name": "typicode" }
+}
