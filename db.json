@@ -28,7 +28,14 @@
       "imageUrl": "noticia2-imagen.com"
     }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ]
+  "InfoBrand": [ 
+  {
+    "title": "PERFORMANCE DIGITAL",
+    "description": "Online"
+  }
+  {
+    "title": "IMPLEMENTACION DE CAMPAÑA",
+    "description": "Online"
+  }
+ ]
 }
