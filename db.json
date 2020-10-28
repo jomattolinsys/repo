@@ -56,13 +56,21 @@
   }
  ],
   "MediaInversionList": [
-  {
-    "id": 23,
-    "name": "Tv"
-  },
-  {
-    "id": 12,
-    "name": "Radio"
-  }
-]
+    {
+      "id": 23,
+      "name": "Tv"
+    },
+    {
+      "id": 12,
+      "name": "Radio"
+    },
+    {
+      "id": 14,
+      "name": "Vía Publica"
+    },
+    {
+      "id": 16,
+      "name": "Internet"
+    }
+  ]
 }
