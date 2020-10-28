@@ -72,5 +72,19 @@
       "id": 16,
       "name": "Internet"
     }
+  ],
+  "ProviderList": [
+    {
+      "id": 23,
+      "name": "GOOGLE"
+    },
+    {
+      "id": 12,
+      "name": "FACEBOOK"
+    },
+    {
+      "id": 11,
+      "name": "Cadreon"
+    }
   ]
 }
