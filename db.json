@@ -54,5 +54,15 @@
     "description": "30.SET"
     
   }
- ]
+ ],
+  "MediaInversionList": [
+  {
+    "id": 23,
+    "name": "Tv"
+  },
+  {
+    "id": 12,
+    "name": "Radio"
+  }
+]
 }
