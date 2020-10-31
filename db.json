@@ -16,18 +16,6 @@
         "ImageUrl": "www.falabella-image.com"
     }
   ],
-  "NewsList": [
-    {
-      "title": "noticia 1",
-      "description": "descripcion noticia 1",
-      "imageUrl": "noticia1-imagen.com"
-    },
-    {
-      "title": "noticia 2",
-      "description": "descripcion noticia 2",
-      "imageUrl": "noticia2-imagen.com"
-    }
-  ],
   "InfoBrand": [ 
   {
     "title": "INVERSIÓN",
