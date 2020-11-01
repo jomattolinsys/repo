@@ -28,10 +28,12 @@
             "amount": 122.6,
             "Providers": [
               {
+                "id": 23,
                 "name": "GOOGLE",
                 "amount": 14.6
               },
               {
+                "id": 12,
                 "name": "FACEBOOK",
                 "amount": 12.6
               }
@@ -43,10 +45,12 @@
             "amount": 132.6,
             "Providers": [
               {
+                "id": 23,
                 "name": "GOOGLE",
                 "amount": 24.6
               },
               {
+                "id": 12,
                 "name": "FACEBOOK",
                 "amount": 22.6
               }
