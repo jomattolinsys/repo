@@ -23,6 +23,7 @@
         "name": "Enero",
         "Media": [
           {
+            "id": 23,
             "name": "TV",
             "amount": 122.6,
             "Providers": [
@@ -37,6 +38,7 @@
             ]
           },
           {
+            "id": 12,
             "name": "RADIO",
             "amount": 132.6,
             "Providers": [
@@ -56,6 +58,7 @@
         "name": "Febrero",
         "Media": [
           {
+            "id": 14,
             "name": "Via Publica",
             "amount": 122.6,
             "Providers": [
@@ -70,14 +73,17 @@
             ]
           },
           {
+            "id": 16,
             "name": "CINE",
             "amount": 132.6,
             "Providers": [
               {
+                "id": 23,
                 "name": "GOOGLE",
                 "amount": 24.6
               },
               {
+                "id": 12,
                 "name": "FACEBOOK",
                 "amount": 22.6
               }
@@ -102,7 +108,7 @@
     },
     {
       "id": 16,
-      "name": "Internet"
+      "name": "CINE"
     }
   ],
   "ProviderList": [
