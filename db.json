@@ -16,33 +16,77 @@
         "ImageUrl": "www.falabella-image.com"
     }
   ],
-  "InfoBrand": [ 
-  {
-    "title": "INVERSIÓN",
-    "description": "30.SET"
+  "Inversion": {
+    "year": 2020,
+    "Months": [
+      {
+        "name": "Enero",
+        "Media": [
+          {
+            "name": "TV",
+            "amount": 122.6,
+            "Providers": [
+              {
+                "name": "GOOGLE",
+                "amount": 14.6
+              },
+              {
+                "name": "FACEBOOK",
+                "amount": 12.6
+              }
+            ]
+          },
+          {
+            "name": "RADIO",
+            "amount": 132.6,
+            "Providers": [
+              {
+                "name": "GOOGLE",
+                "amount": 24.6
+              },
+              {
+                "name": "FACEBOOK",
+                "amount": 22.6
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Febrero",
+        "Media": [
+          {
+            "name": "Via Publica",
+            "amount": 122.6,
+            "Providers": [
+              {
+                "name": "GOOGLE",
+                "amount": 14.6
+              },
+              {
+                "name": "FACEBOOK",
+                "amount": 12.6
+              }
+            ]
+          },
+          {
+            "name": "CINE",
+            "amount": 132.6,
+            "Providers": [
+              {
+                "name": "GOOGLE",
+                "amount": 24.6
+              },
+              {
+                "name": "FACEBOOK",
+                "amount": 22.6
+              }
+            ]
+          }
+        ]
+      }
+    ]
   },
-  {
-    "title": "ESTADO DE CUENTA",
-    "description": "30.SET"
-  },
-  {
-    "title": "FACTURACIÓN",
-    "description": "30.SET"
-    
-  },
-  {
-    "title": "RESUMEN DIGITAL",
-    "description": "Live"
-  },
-  {
-    "title": "REPORTE DE MERCADO",
-    "description": "30.SET"
-  },
-  {
-    "title": "IMPLEMEMENTACIÓN DE CAMPAÑAS",
-    "description": "Live"
-  }
- ],
   "MediaInversionList": [
     {
       "id": 23,
