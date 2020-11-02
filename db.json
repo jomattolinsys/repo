@@ -120,6 +120,22 @@
     {
       "id": 16,
       "name": "CINE"
+    },
+     {
+      "id": 1,
+      "name": "Internet"
+    },
+    {
+      "id": 2,
+      "name": "Prensa"
+    },
+    {
+      "id": 3,
+      "name": "Encarte"
+    },
+    {
+      "id": 4,
+      "name": "Btl"
     }
   ],
   "ProviderList": [
