@@ -64,32 +64,32 @@
           {
             "id": 14,
             "name": "Vía Publica",
-            "amount": 12.6,
+            "amount": 12.6
           },
           {
             "id": 16,
             "name": "Cine",
-            "amount": 1222.6,
+            "amount": 1222.6
           },
           {
             "id": 1,
             "name": "Internet",
-            "amount": 234.55,
+            "amount": 234.55
           },
           {
             "id": 2,
             "name": "Prensa",
-            "amount": 444.55,
+            "amount": 444.55
           },
           {
             "id": 3,
             "name": "Encarte",
-            "amount": 4454.55,
+            "amount": 4454.55
           },
           {
             "id": 4,
             "name": "Btl",
-            "amount": 4554.55,
+            "amount": 4554.55
           }
         ]
       },
