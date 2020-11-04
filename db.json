@@ -74,7 +74,24 @@
           {
             "id": 1,
             "name": "Internet",
-            "amount": 234.55
+            "amount": 234.55,
+             "Providers": [
+              {
+                "id": 23,
+                "name": "GOOGLE",
+                "amount": 7800000
+              },
+              {
+                "id": 12,
+                "name": "FACEBOOK",
+                "amount": 78000000
+              },
+              {
+                "id": 10,
+                "name": "Cadreon",
+                "amount": 34000000
+              }
+            ]
           },
           {
             "id": 2,
@@ -127,6 +144,28 @@
                 "id": 12,
                 "name": "FACEBOOK",
                 "amount": 22.6
+              }
+            ]
+          },
+          {
+            "id": 1,
+            "name": "Internet",
+            "amount": 54000000.55,
+             "Providers": [
+              {
+                "id": 23,
+                "name": "GOOGLE",
+                "amount": 7700000
+              },
+              {
+                "id": 12,
+                "name": "FACEBOOK",
+                "amount": 18000000
+              },
+              {
+                "id": 10,
+                "name": "Cadreon",
+                "amount": 24000000
               }
             ]
           }
