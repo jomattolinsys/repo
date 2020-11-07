@@ -658,24 +658,7 @@
           {
             "id": 1,
             "name": "Internet",
-            "amount": 54000000.55,
-             "Providers": [
-              {
-                "id": 23,
-                "name": "GOOGLE",
-                "amount": 7700000
-              },
-              {
-                "id": 12,
-                "name": "FACEBOOK",
-                "amount": 10
-              },
-              {
-                "id": 10,
-                "name": "Cadreon",
-                "amount": 24000000
-              }
-            ]
+            "amount": 54000000.55
           }
         ]
       }
