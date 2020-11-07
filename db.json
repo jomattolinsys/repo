@@ -8,41 +8,12 @@
           {
             "id": 23,
             "name": "TV",
-            "amount": 122.6,
-            "Providers": [
-              {
-                "id": 23,
-                "name": "GOOGLE",
-                "amount": 7800000
-              },
-              {
-                "id": 12,
-                "name": "FACEBOOK",
-                "amount": 78000000
-              },
-              {
-                "id": 10,
-                "name": "Cadreon",
-                "amount": 34000000
-              }
-            ]
+            "amount": 122.6
           },
           {
             "id": 12,
             "name": "RADIO",
-            "amount": 132.6,
-            "Providers": [
-              {
-                "id": 23,
-                "name": "GOOGLE",
-                "amount": 24.6
-              },
-              {
-                "id": 12,
-                "name": "FACEBOOK",
-                "amount": 22.6
-              }
-            ]
+            "amount": 132.6
           },
           {
             "id": 14,
@@ -57,24 +28,7 @@
           {
             "id": 1,
             "name": "Internet",
-            "amount": 234.55,
-             "Providers": [
-              {
-                "id": 23,
-                "name": "GOOGLE",
-                "amount": 7800000
-              },
-              {
-                "id": 12,
-                "name": "FACEBOOK",
-                "amount": 30
-              },
-              {
-                "id": 10,
-                "name": "Cadreon",
-                "amount": 34000000
-              }
-            ]
+            "amount": 234.55
           },
           {
             "id": 2,
@@ -99,58 +53,17 @@
           {
             "id": 14,
             "name": "Via Publica",
-            "amount": 122.6,
-            "Providers": [
-              {
-                "id": 23,
-                "name": "GOOGLE",
-                "amount": 14.6
-              },
-              {
-                "id": 12,
-                "name": "FACEBOOK",
-                "amount": 12.6
-              }
-            ]
+            "amount": 122.6
           },
           {
             "id": 16,
             "name": "CINE",
-            "amount": 132.6,
-            "Providers": [
-              {
-                "id": 23,
-                "name": "GOOGLE",
-                "amount": 24.6
-              },
-              {
-                "id": 12,
-                "name": "FACEBOOK",
-                "amount": 22.6
-              }
-            ]
+            "amount": 132.6
           },
           {
             "id": 1,
             "name": "Internet",
-            "amount": 54000000.55,
-             "Providers": [
-              {
-                "id": 23,
-                "name": "GOOGLE",
-                "amount": 7700000
-              },
-              {
-                "id": 12,
-                "name": "FACEBOOK",
-                "amount": 20
-              },
-              {
-                "id": 10,
-                "name": "Cadreon",
-                "amount": 24000000
-              }
-            ]
+            "amount": 54000000.55
           }
         ]
       }, 
@@ -159,41 +72,12 @@
           {
             "id": 23,
             "name": "TV",
-            "amount": 122.6,
-            "Providers": [
-              {
-                "id": 23,
-                "name": "GOOGLE",
-                "amount": 7800000
-              },
-              {
-                "id": 12,
-                "name": "FACEBOOK",
-                "amount": 78000000
-              },
-              {
-                "id": 10,
-                "name": "Cadreon",
-                "amount": 34000000
-              }
-            ]
+            "amount": 122.6
           },
           {
             "id": 12,
             "name": "RADIO",
-            "amount": 132.6,
-            "Providers": [
-              {
-                "id": 23,
-                "name": "GOOGLE",
-                "amount": 24.6
-              },
-              {
-                "id": 12,
-                "name": "FACEBOOK",
-                "amount": 22.6
-              }
-            ]
+            "amount": 132.6
           },
           {
             "id": 14,
