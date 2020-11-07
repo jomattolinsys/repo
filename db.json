@@ -402,57 +402,5 @@
         ]
       }
     ]
-  },
-  "MediaInversionList": [
-    {
-      "id": 23,
-      "name": "Tv"
-    },
-    {
-      "id": 12,
-      "name": "Radio"
-    },
-    {
-      "id": 14,
-      "name": "Vía Publica"
-    },
-    {
-      "id": 16,
-      "name": "CINE"
-    },
-     {
-      "id": 1,
-      "name": "Internet"
-    },
-    {
-      "id": 2,
-      "name": "Prensa"
-    },
-    {
-      "id": 3,
-      "name": "Encarte"
-    },
-    {
-      "id": 4,
-      "name": "Btl"
-    }
-  ],
-  "ProviderList": [
-    {
-      "id": 23,
-      "name": "GOOGLE"
-    },
-    {
-      "id": 12,
-      "name": "FACEBOOK"
-    },
-    {
-      "id": 11,
-      "name": "Cadreon"
-    }
-  ],
-  "CampaignList": [
-    { "id": 23, "name": "CHOCOLATES" },
-    { "id": 12, "name": "MEJORA TU BAÑO" } 
-  ]
+  }
 }
