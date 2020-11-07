@@ -1,21 +1,4 @@
 {
-  "BrandList": [
-    {
-        "id": 124,
-        "name": "SODIMAC",
-        "ImageUrl": "www.sodimac-image.com"
-    },
-    {
-        "id": 234,
-        "name": "MAESTRO",
-        "ImageUrl": "www.maestro-image.com"
-    },
-    {
-        "id": 4567,
-        "name": "SAGA FALaBELLA",
-        "ImageUrl": "www.falabella-image.com"
-    }
-  ],
   "Inversion": {
     "year": 2020,
     "Months": [
