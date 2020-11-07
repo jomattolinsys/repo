@@ -49,355 +49,355 @@
       },
       {
         "name": "Febrero",
-        "Media": [
+         "Media": [
           {
             "id": 23,
             "name": "TV",
-            "amount": 2122.6
+            "amount": 1122.6
           },
           {
             "id": 12,
             "name": "RADIO",
-            "amount": 2132.6
+            "amount": 1132.6
           },
           {
             "id": 14,
             "name": "Vía Publica",
-            "amount": 2212.6
+            "amount": 1112.6
           },
           {
             "id": 16,
             "name": "Cine",
-            "amount": 2222.6
+            "amount": 1222.6
           },
           {
             "id": 1,
             "name": "Internet",
-            "amount": 2234.55
+            "amount": 1234.55
           },
           {
             "id": 2,
             "name": "Prensa",
-            "amount": 2444.55
+            "amount": 1444.55
           },
           {
             "id": 3,
             "name": "Encarte",
-            "amount": 24454.55
+            "amount": 14454.55
           },
           {
             "id": 4,
             "name": "Btl",
-            "amount": 24554.55
+            "amount": 14554.55
           }
         ]
       }, 
       {
         "name": "Marzo",
-        "Media": [
+         "Media": [
           {
             "id": 23,
             "name": "TV",
-            "amount": 3122.6
+            "amount": 1122.6
           },
           {
             "id": 12,
             "name": "RADIO",
-            "amount": 3132.6
+            "amount": 1132.6
           },
           {
             "id": 14,
             "name": "Vía Publica",
-            "amount": 3312.6
+            "amount": 1112.6
           },
           {
             "id": 16,
             "name": "Cine",
-            "amount": 3222.6
+            "amount": 1222.6
           },
           {
             "id": 1,
             "name": "Internet",
-            "amount": 3234.55
+            "amount": 1234.55
           },
           {
             "id": 2,
             "name": "Prensa",
-            "amount": 3444.55
+            "amount": 1444.55
           },
           {
             "id": 3,
             "name": "Encarte",
-            "amount": 34454.55
+            "amount": 14454.55
           },
           {
             "id": 4,
             "name": "Btl",
-            "amount": 34554.55
+            "amount": 14554.55
           }
         ]
       },
       {"name": "Abril",
-        "Media": [
+         "Media": [
           {
             "id": 23,
             "name": "TV",
-            "amount": 4122.6
+            "amount": 1122.6
           },
           {
             "id": 12,
             "name": "RADIO",
-            "amount": 4132.6
+            "amount": 1132.6
           },
           {
             "id": 14,
             "name": "Vía Publica",
-            "amount": 4412.6
+            "amount": 1112.6
           },
           {
             "id": 16,
             "name": "Cine",
-            "amount": 4222.6
+            "amount": 1222.6
           },
           {
             "id": 1,
             "name": "Internet",
-            "amount": 4234.55
+            "amount": 1234.55
           },
           {
             "id": 2,
             "name": "Prensa",
-            "amount": 4444.55
+            "amount": 1444.55
           },
           {
             "id": 3,
             "name": "Encarte",
-            "amount": 4454.55
+            "amount": 14454.55
           },
           {
             "id": 4,
             "name": "Btl",
-            "amount": 4554.55
+            "amount": 14554.55
           }
         ]
       },
         {"name": "Mayo",
-          "Media": [
-            {
-              "id": 23,
-              "name": "TV",
-              "amount": 5122.6
-            },
-            {
-              "id": 12,
-              "name": "RADIO",
-              "amount": 5132.6
-            },
-            {
-              "id": 14,
-              "name": "Vía Publica",
-              "amount": 5512.6
-            },
-            {
-              "id": 16,
-              "name": "Cine",
-              "amount": 5222.6
-            },
-            {
-              "id": 1,
-              "name": "Internet",
-              "amount": 5234.55
-            },
-            {
-              "id": 2,
-              "name": "Prensa",
-              "amount": 5444.55
-            },
-            {
-              "id": 3,
-              "name": "Encarte",
-              "amount": 5454.55
-            },
-            {
-              "id": 4,
-              "name": "Btl",
-              "amount": 5554.55
-            }
-          ]
-      },
-      {"name": "Junio",
-        "Media": [
+           "Media": [
           {
             "id": 23,
             "name": "TV",
-            "amount": 6122.6
+            "amount": 1122.6
           },
           {
             "id": 12,
             "name": "RADIO",
-            "amount": 6132.6
+            "amount": 1132.6
           },
           {
             "id": 14,
             "name": "Vía Publica",
-            "amount": 6612.6
+            "amount": 1112.6
           },
           {
             "id": 16,
             "name": "Cine",
-            "amount": 6222.6
+            "amount": 1222.6
           },
           {
             "id": 1,
             "name": "Internet",
-            "amount": 6234.55
+            "amount": 1234.55
           },
           {
             "id": 2,
             "name": "Prensa",
-            "amount": 6444.55
+            "amount": 1444.55
           },
           {
             "id": 3,
             "name": "Encarte",
-            "amount": 6454.55
+            "amount": 14454.55
           },
           {
             "id": 4,
             "name": "Btl",
-            "amount": 6554.55
+            "amount": 14554.55
+          }
+        ]
+      },
+      {"name": "Junio",
+         "Media": [
+          {
+            "id": 23,
+            "name": "TV",
+            "amount": 1122.6
+          },
+          {
+            "id": 12,
+            "name": "RADIO",
+            "amount": 1132.6
+          },
+          {
+            "id": 14,
+            "name": "Vía Publica",
+            "amount": 1112.6
+          },
+          {
+            "id": 16,
+            "name": "Cine",
+            "amount": 1222.6
+          },
+          {
+            "id": 1,
+            "name": "Internet",
+            "amount": 1234.55
+          },
+          {
+            "id": 2,
+            "name": "Prensa",
+            "amount": 1444.55
+          },
+          {
+            "id": 3,
+            "name": "Encarte",
+            "amount": 14454.55
+          },
+          {
+            "id": 4,
+            "name": "Btl",
+            "amount": 14554.55
           }
         ]
       },
       {"name": "Julio",
-        "Media": [
+         "Media": [
           {
             "id": 23,
             "name": "TV",
-            "amount": 7122.6
+            "amount": 1122.6
           },
           {
             "id": 12,
             "name": "RADIO",
-            "amount": 7132.6
+            "amount": 1132.6
           },
           {
             "id": 14,
             "name": "Vía Publica",
-            "amount": 7712.6
+            "amount": 1112.6
           },
           {
             "id": 16,
             "name": "Cine",
-            "amount": 7222.6
+            "amount": 1222.6
           },
           {
             "id": 1,
             "name": "Internet",
-            "amount": 7234.55
+            "amount": 1234.55
           },
           {
             "id": 2,
             "name": "Prensa",
-            "amount": 7444.55
+            "amount": 1444.55
           },
           {
             "id": 3,
             "name": "Encarte",
-            "amount": 7454.55
+            "amount": 14454.55
           },
           {
             "id": 4,
             "name": "Btl",
-            "amount": 7554.55
+            "amount": 14554.55
           }
         ]
       },
       {"name": "Agosto",
-        "Media": [
+         "Media": [
           {
             "id": 23,
             "name": "TV",
-            "amount": 8122.6
+            "amount": 1122.6
           },
           {
             "id": 12,
             "name": "RADIO",
-            "amount": 8132.6
+            "amount": 1132.6
           },
           {
             "id": 14,
             "name": "Vía Publica",
-            "amount": 8812.6
+            "amount": 1112.6
           },
           {
             "id": 16,
             "name": "Cine",
-            "amount": 8222.6
+            "amount": 1222.6
           },
           {
             "id": 1,
             "name": "Internet",
-            "amount": 8234.55
+            "amount": 1234.55
           },
           {
             "id": 2,
             "name": "Prensa",
-            "amount": 8444.55
+            "amount": 1444.55
           },
           {
             "id": 3,
             "name": "Encarte",
-            "amount": 8454.55
+            "amount": 14454.55
           },
           {
             "id": 4,
             "name": "Btl",
-            "amount": 8554.55
+            "amount": 14554.55
           }
         ]
       },
       {"name": "Setiembre",
-        "Media": [
+         "Media": [
           {
             "id": 23,
             "name": "TV",
-            "amount": 9122.6
+            "amount": 1122.6
           },
           {
             "id": 12,
             "name": "RADIO",
-            "amount": 9132.6
+            "amount": 1132.6
           },
           {
             "id": 14,
             "name": "Vía Publica",
-            "amount": 9912.6
+            "amount": 1112.6
           },
           {
             "id": 16,
             "name": "Cine",
-            "amount": 9222.6
+            "amount": 1222.6
           },
           {
             "id": 1,
             "name": "Internet",
-            "amount": 9234.55
+            "amount": 1234.55
           },
           {
             "id": 2,
             "name": "Prensa",
-            "amount": 9444.55
+            "amount": 1444.55
           },
           {
             "id": 3,
             "name": "Encarte",
-            "amount": 9454.55
+            "amount": 14454.55
           },
           {
             "id": 4,
             "name": "Btl",
-            "amount": 9554.55
+            "amount": 14554.55
           }
         ]
       }
