@@ -13,37 +13,37 @@
           {
             "id": 12,
             "name": "RADIO",
-            "amount": 5132.6
+            "amount": 2132.6
           },
           {
             "id": 14,
             "name": "Vía Publica",
-            "amount": 5812.6
+            "amount": 2812.6
           },
           {
             "id": 16,
             "name": "Cine",
-            "amount": 5622.6
+            "amount": 2622.6
           },
           {
             "id": 1,
             "name": "Internet",
-            "amount": 5234.55
+            "amount": 2234.55
           },
           {
             "id": 2,
             "name": "Prensa",
-            "amount": 5144.55
+            "amount": 2144.55
           },
           {
             "id": 3,
             "name": "Encarte",
-            "amount": 5454.55
+            "amount": 2454.55
           },
           {
             "id": 4,
             "name": "Btl",
-            "amount": 5554.55
+            "amount": 2554.55
           }
         ]
       },
