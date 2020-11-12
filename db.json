@@ -2,17 +2,25 @@
  "ResumenDigitalPerformance" :
     {
       "title": "Mejora tu baño",
-      "totalInversion": 4500,
-      "totalCurrentScope": 100,
-      "totalExpectedScope": 200,
-      "totalCurrentImpressions": 200,
-      "totalExpectedImpressions": 300,
-      "totalClicks": 20000,
-      "totalLinkClicks": 4000,
-      "totalCTR": 0.247,
-      "totalLinkCTR": 0.05,
-      "totalCPC": 0.02,
-      "totalLinkCPC": 1.2,
+      "reportData":{
+        "totalInversion": 4500,
+        "totalCurrentScope": 100,
+        "totalExpectedScope": 200,
+        "totalCurrentImpressions": 200,
+        "totalExpectedImpressions": 300,
+        "totalClicks": 20000,
+        "totalLinkClicks": 4000,
+        "totalCTR": 0.247,
+        "totalLinkCTR": 0.05,
+        "totalCPC": 0.02,
+        "totalLinkCPC": 1.2,
+        "videoViews10": 422.90,
+        "totalVTR": 4.70,
+        "totalCPC10": 0.011,
+        "postReactions": 55.90,
+        "postComments": 989,
+        "postShares": 8000
+      },
       "Category": [
         {
           "categoryTitle": "VIDEO",
