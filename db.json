@@ -1,20 +1,50 @@
-{"CampaignImpl": [
-  {
-  "title": "MAMÁ",
-    "Category": [
-      {
-        "categoryTitle": "VIDEO",
-        "imageUrl": "https://www.peru-retail.com/wp-content/uploads/maestro-peru-tienda.jpg",
-        "date": "20/10/2020",
-        "media": "Internet"
-      },
-      {
-        "categoryTitle": "BANNER",
-        "imageUrl": "https://www.peru-retail.com/wp-content/uploads/maestro-peru-tienda.jpg",
-        "date": "01/10/2020",
-        "media": "Internet"
-      }
-    ]
-  }
-]
+{
+ "ResumenDigitalPerformance"
+    {
+      "title": "Mejora tu baño",
+      "totalInversion": 4500,
+      "totalCurrentScope": 100,
+      "totalExpectedScope": 200,
+      "totalCurrentImpressions": 200,
+      "totalExpectedImpressions": 300,
+      "totalClicks": 20000,
+      "totalLinkClicks": 4000,
+      "totalCTR": 0.247,
+      "totalLinkCTR": 0.05,
+      "totalCPC": 0.02,
+      "totalLinkCPC": 1.2,
+      "Category": [
+        {
+          "categoryTitle": "VIDEO",
+          "verArteUrl": "video.com",
+          "inversion": 4500,
+          "currentScope": 100,
+          "expectedScope": 200,
+          "currentImpressions": 200,
+          "expectedImpressions": 300,
+          "clicks": 20000,
+          "linkClicks": 4000,
+          "CTR": 0.247,
+          "linkCTR": 0.05,
+          "CPC": 0.02,
+          "linkCPC": 1.2
+        },
+        {
+          "categoryTitle": "BANNER",
+          "verArteUrl": "banner.com",
+          "inversion": 4500,
+          "currentScope": 100,
+          "expectedScope": 200,
+          "currentImpressions": 200,
+          "expectedImpressions": 300,
+          "clicks": 20000,
+          "linkClicks": 4000,
+          "CTR": 0.247,
+          "linkCTR": 0.05,
+          "CPC": 0.02,
+          "linkCPC": 1.2
+        }
+      ]
+    }
+
 }
