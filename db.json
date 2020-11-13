@@ -84,13 +84,13 @@
               "statTitle": "Visitas",
               "currentValue": 1.2,
               "expectedValue": 10,
-              "description": "Impresiones",
+              "description": "Impresiones"
             },
             {
               "statTitle": "Sesiones",
               "currentValue": 6.2,
               "expectedValue": 10,
-              "description": "Clicks",
+              "description": "Clicks"
             }
           ]
         },
@@ -101,13 +101,13 @@
               "statTitle": "Visitas",
               "currentValue": 2.2,
               "expectedValue": 10,
-              "description": "Impresiones",
+              "description": "Impresiones"
             },
             {
               "statTitle": "Sesiones",
               "currentValue": 7.2,
               "expectedValue": 10,
-              "description": "Clicks",
+              "description": "Clicks"
             }
           ]
         }
