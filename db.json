@@ -72,5 +72,46 @@
           }
         }
       ]
+    },
+  "ResumenDigitalVentas" : {
+      "title": "Mejora tu baño",
+      "Category": [
+        {
+          "categoryTitle": "VIDEO",
+          "statistics": [
+            {
+              "statTitle": "Visitas",
+              "currentValue": 1.2,
+              "expectedValue": 10,
+              "description": "Impresiones",
+            },
+            {
+              "statTitle": "Sesiones",
+              "currentValue": 6.2,
+              "expectedValue": 10,
+              "description": "Clicks",
+            }
+          ]
+        },
+        {
+          "categoryTitle": "BANNER",
+          "statistics": [
+            {
+              "statTitle": "Visitas",
+              "currentValue": 2.2,
+              "expectedValue": 10,
+              "description": "Impresiones",
+            },
+            {
+              "statTitle": "Sesiones",
+              "currentValue": 7.2,
+              "expectedValue": 10,
+              "description": "Clicks",
+            }
+          ]
+        }
+      ]
     }
+
+ 
 }
