@@ -73,7 +73,8 @@
         }
       ]
     },
-  "ResumenDigitalVentas" : {
+ 
+     "ResumenDigitalVentas": {
       "title": "Mejora tu baño",
       "Category": [
         {
@@ -113,5 +114,4 @@
       ]
     }
 
- 
 }
