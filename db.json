@@ -91,6 +91,12 @@
               "currentValue": 6.2,
               "expectedValue": 10,
               "description": "Clicks"
+            },
+            {
+              "statTitle": "Conversiones",
+              "currentValue": 6.2,
+              "expectedValue": 10,
+              "description": "Clicks"
             }
           ]
         },
@@ -106,6 +112,12 @@
             {
               "statTitle": "Sesiones",
               "currentValue": 7.2,
+              "expectedValue": 10,
+              "description": "Clicks"
+            },
+            {
+              "statTitle": "Conversiones",
+              "currentValue": 6.2,
               "expectedValue": 10,
               "description": "Clicks"
             }
