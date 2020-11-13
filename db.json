@@ -72,10 +72,5 @@
           }
         }
       ]
-    },
-   "CampaignList": [
-    { "id": 23, "name": "CHOCOLATES" },
-    { "id": 12, "name": "MEJORA TU BAÑO" } 
-  ]
-
+    }
 }
